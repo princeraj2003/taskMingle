@@ -1,0 +1,47 @@
+section-contact-main {
+    max-width: 40rem;
+    margin: 0 auto;
+    margin-top: 9rem;
+    transition: all 0.3s linear;
+  }
+  .common-heading{
+    font-size: 50px;
+  }
+  
+  .section-contact-main .grid {
+  
+    gap: 2.2rem;
+    border-radius: 25px;
+  }
+  .section-contact-main input[name="email"] {
+    margin-top: 2rem;
+  }
+  .section-contact-main input[name="email"] {
+    padding-top: 2rem;
+    border-radius: 25px;
+  }
+  
+  
+  .section-contact-main form {
+    display: flex;
+    flex-direction: column;
+    gap: 2.2rem;
+    border-radius: 25px;
+  }
+  
+  .section-contact-main input,
+  .section-contact-main textarea {
+    padding: 1.5rem 2rem;
+    border: 0.1rem solid #c9c9c9;
+    border-radius: 25px;
+    font-size: 1.6rem;
+    font-family: "work sans";
+    width: 50%;
+  }
+  
+  .section-contact-main input[type="submit"] {
+    border-radius: 25px;
+    max-width: 20%;
+    border: none;
+    align-self: center;
+  }
