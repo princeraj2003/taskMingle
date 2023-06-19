@@ -290,7 +290,7 @@ ul li a:hover{
   .image-container img {
     padding: 10px; /* Adds space around each image */
   }
- /* Desktop Styles */
+/*  /* Desktop Styles */
     .container {
       width: 960px;
       margin: auto auto;
@@ -310,3 +310,4 @@ ul li a:hover{
         padding: 30px 30px;
       }
     }
+ */
