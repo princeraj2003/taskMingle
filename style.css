@@ -293,7 +293,7 @@ ul li a:hover{
  /* Desktop Styles */
     .container {
       width: 960px;
-      margin: 0 auto;
+      margin: auto auto;
     }
 
     /* Tablet Styles */
