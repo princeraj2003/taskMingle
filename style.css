@@ -307,6 +307,6 @@ ul li a:hover{
     /* Mobile Styles */
     @media screen and (max-width: 400px) {
       .container {
-        padding: 0 30px;
+        padding: 30px 30px;
       }
     }
