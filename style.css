@@ -290,3 +290,23 @@ ul li a:hover{
   .image-container img {
     padding: 10px; /* Adds space around each image */
   }
+ /* Desktop Styles */
+    .container {
+      width: 960px;
+      margin: 0 auto;
+    }
+
+    /* Tablet Styles */
+    @media screen and (max-width: 768px) {
+      .container {
+        width: 100%;
+        padding: 0 20px;
+      }
+    }
+
+    /* Mobile Styles */
+    @media screen and (max-width: 480px) {
+      .container {
+        padding: 0 10px;
+      }
+    }
